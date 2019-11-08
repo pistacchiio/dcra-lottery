@@ -175,6 +175,7 @@ export default {
       this.dcra = dcra;
 
       let dcra2 = [];
+      const MAX_SPOTS = 72;
       const DAY_OF_WEEK = [
         "Sunday",
         "Monday",
@@ -199,6 +200,18 @@ export default {
             license: dcra[j].license,
             name: dcra[j].name
           });
+        }
+
+        for (let s = 1; s <= MAX_SPOTS; s++) {
+          if (!dayGroup.find(i => i.spotNumber == s)) {
+            dayGroup.push({
+              day: DAY_OF_WEEK[i],
+              spot: `??? ${s}`,
+              spotNumber: s,
+              license: 'N/A',
+              name: 'N/A'
+            });
+          }
         }
 
         dayGroup
