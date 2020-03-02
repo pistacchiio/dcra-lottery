@@ -92,6 +92,14 @@ export default {
   },
   methods: {
     generate() {
+      function shortSpot(spot) {
+        // allow aliasing
+        let spotNumber = parseInt(spot.match(/[0-9]+/)[0]); // extract spot number
+        if (spot.indexOf("Food") > -1) return `Food ${spotNumber}`;
+        else if (spot.indexOf("Merchandise") > -1) return `Merch ${spotNumber}`;
+        return spot;
+      }
+
       let dcraText = this.dcraPdfText;
 
       //
@@ -150,7 +158,7 @@ export default {
             spots.push(data[i]);
           } else {
             // "Food - Spot 34" -> [ 'Food', Spot', '34' ]
-            spots.push(`${data[i]} ${data[i + 2]}`);
+            spots.push(shortSpot(`${data[i]} ${data[i + 2]}`));
             i += 2;
           }
         }
@@ -195,7 +203,7 @@ export default {
 
           dayGroup.push({
             day: DAY_OF_WEEK[i],
-            spot: spot,
+            spot: shortSpot(spot),
             spotNumber: spotNumber,
             license: dcra[j].license,
             name: dcra[j].name
@@ -208,8 +216,8 @@ export default {
               day: DAY_OF_WEEK[i],
               spot: `??? ${s}`,
               spotNumber: s,
-              license: 'N/A',
-              name: 'N/A'
+              license: "N/A",
+              name: "N/A"
             });
           }
         }

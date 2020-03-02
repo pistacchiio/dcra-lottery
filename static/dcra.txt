@@ -1,4 +1,4 @@
-December 2019 SRV Location Lottery Results
+March 2020 SRV Location Lottery Results
 
 License 
 Number
@@ -21,17 +21,17 @@ Saturday
 
 13CAP-00000048
 
-December, 2019
+March, 2020
+
+OFF
+
+Food - Spot 26
 
 OFF
 
 OFF
 
-Food - Spot 63
-
-OFF
-
-Food - Spot 09
+Food - Spot 02
 
 OFF
 
@@ -39,728 +39,530 @@ OFF
 
 13CAP-00000050
 
-December, 2019
+March, 2020
+
+Food - Spot 60
 
 OFF
 
 OFF
 
-Food - Spot 41
+Food - Spot 36
 
 OFF
 
 OFF
 
-Food - Spot 59
-
-OFF
+Food - Spot 12
 
 13CAP-00000053
 
-December, 2019
+March, 2020
+
+Merchandise - Spot 43
+
+Merchandise - Spot 09
 
 OFF
 
-Merchandise - Spot 48
+Merchandise - Spot 19
 
-Merchandise - Spot 16
-
-OFF
-
-Merchandise - Spot 58
-
-Merchandise - Spot 22
+Merchandise - Spot 65
 
 OFF
+
+Merchandise - Spot 27
 
 13CAP-00000055
 
-December, 2019
-
-Merchandise - Spot 66
-
-Merchandise - Spot 36
-
-Merchandise - Spot 04
+March, 2020
 
 OFF
 
-Merchandise - Spot 46
+Merchandise - Spot 59
 
-Merchandise - Spot 10
+Merchandise - Spot 23
+
+OFF
+
+Merchandise - Spot 45
+
+Merchandise - Spot 71
 
 OFF
 
 13CAP-00000056
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 48
-
-Merchandise - Spot 18
+Merchandise - Spot 07
 
 OFF
 
-Merchandise - Spot 56
+Merchandise - Spot 43
 
-Merchandise - Spot 26
+Merchandise - Spot 57
 
 OFF
 
-Merchandise - Spot 62
+Merchandise - Spot 19
+
+Merchandise - Spot 37
 
 13CAP-00000062
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 66
+Merchandise - Spot 55
 
-Merchandise - Spot 30
-
-OFF
-
-Merchandise - Spot 72
-
-Merchandise - Spot 36
-
-Merchandise - Spot 06
-
-13CAP-00000063
-
-December, 2019
-
-Merchandise - Spot 44
-
-Merchandise - Spot 12
+Merchandise - Spot 19
 
 OFF
 
-Merchandise - Spot 52
+Merchandise - Spot 43
 
-Merchandise - Spot 22
+Merchandise - Spot 65
 
 OFF
-
-Merchandise - Spot 58
 
 13CAP-00000064
 
-December, 2019
-
-Merchandise - Spot 40
-
-Merchandise - Spot 08
+March, 2020
 
 OFF
 
-Merchandise - Spot 48
+Merchandise - Spot 63
 
-Merchandise - Spot 16
+Merchandise - Spot 27
 
 OFF
 
-Merchandise - Spot 52
+Merchandise - Spot 49
+
+Merchandise - Spot 03
+
+OFF
 
 13CAP-00000065
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 34
+Merchandise - Spot 69
 
-Merchandise - Spot 02
-
-OFF
-
-Merchandise - Spot 40
-
-Merchandise - Spot 10
+Merchandise - Spot 31
 
 OFF
 
-Merchandise - Spot 46
+Merchandise - Spot 45
+
+Merchandise - Spot 17
+
+OFF
+
+Merchandise - Spot 07
 
 13CAP-00000066
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 62
+Merchandise - Spot 61
 
-Merchandise - Spot 32
+Merchandise - Spot 23
+
+OFF
+
+Merchandise - Spot 37
+
+Merchandise - Spot 09
 
 OFF
 
-Merchandise - Spot 72
-
-Merchandise - Spot 42
-
-Merchandise - Spot 06
-
-OFF
+Merchandise - Spot 71
 
 13CAP-00000067
 
-December, 2019
-
-Merchandise - Spot 42
-
-Merchandise - Spot 10
+March, 2020
 
 OFF
 
-Merchandise - Spot 50
+Merchandise - Spot 65
 
-Merchandise - Spot 20
+Merchandise - Spot 29
 
 OFF
 
-Merchandise - Spot 54
+Merchandise - Spot 51
+
+Merchandise - Spot 05
+
+OFF
 
 13CAP-00000074
 
-December, 2019
-
-Food - Spot 13
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 31
+Food - Spot 70
 
 OFF
 
 OFF
 
-Food - Spot 49
+Food - Spot 46
+
+OFF
 
 13CAP-00000081
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 56
+Merchandise - Spot 47
 
-Merchandise - Spot 22
+Merchandise - Spot 07
 
 OFF
 
-Merchandise - Spot 64
+Merchandise - Spot 35
 
-Merchandise - Spot 28
+Merchandise - Spot 57
 
 OFF
 
 13CAP-00000089
 
-December, 2019
-
-OFF
-
-Food - Spot 03
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 21
+OFF
+
+Food - Spot 58
 
 OFF
 
 OFF
+
+Food - Spot 34
 
 13CAP-00000091
 
-December, 2019
+March, 2020
 
-Food - Spot 35
+OFF
+
+Food - Spot 24
 
 OFF
 
 OFF
 
-Food - Spot 53
-
 OFF
 
-OFF
+Food - Spot 72
 
-Food - Spot 71
+OFF
 
 13CAP-00000092
 
-December, 2019
-
-Food - Spot 37
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 55
+Food - Spot 60
 
 OFF
 
-Food - Spot 01
+OFF
+
+Food - Spot 36
 
 OFF
 
 13CAP-00000110
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 52
-
-Merchandise - Spot 22
+Merchandise - Spot 23
 
 OFF
 
-Merchandise - Spot 60
+Merchandise - Spot 61
 
-Merchandise - Spot 30
+Merchandise - Spot 01
 
 OFF
 
-Merchandise - Spot 66
+Merchandise - Spot 35
+
+Merchandise - Spot 11
+
+13CAP-00000111
+
+March, 2020
+
+OFF
+
+Food - Spot 04
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 52
+
+OFF
 
 13CAP-00000112
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 50
-
-Merchandise - Spot 20
+Merchandise - Spot 19
 
 OFF
 
-Merchandise - Spot 58
+Merchandise - Spot 57
 
-Merchandise - Spot 28
-
-OFF
-
-Merchandise - Spot 64
-
-13CAP-00000127
-
-December, 2019
-
-Merchandise - Spot 14
+Merchandise - Spot 69
 
 OFF
 
-Merchandise - Spot 48
+Merchandise - Spot 31
 
-Merchandise - Spot 18
-
-OFF
-
-Merchandise - Spot 56
-
-Merchandise - Spot 28
+Merchandise - Spot 49
 
 13CAP-00000131
 
-December, 2019
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 21
+Food - Spot 42
 
 OFF
 
 OFF
 
-Food - Spot 39
+Food - Spot 18
 
 OFF
 
 13CAP-00000134
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 50
-
-Merchandise - Spot 18
+Merchandise - Spot 35
 
 OFF
 
-Merchandise - Spot 60
+Merchandise - Spot 49
 
-Merchandise - Spot 24
+Merchandise - Spot 23
+
+OFF
+
+Merchandise - Spot 53
+
+13CAP-00000137
+
+March, 2020
+
+Food - Spot 14
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 62
+
+OFF
 
 OFF
 
 13CAP-00000139
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 56
-
-Merchandise - Spot 26
+Merchandise - Spot 09
 
 OFF
 
-Merchandise - Spot 66
+Merchandise - Spot 45
 
-Merchandise - Spot 36
+Merchandise - Spot 59
 
 OFF
 
-Merchandise - Spot 72
+Merchandise - Spot 21
+
+Merchandise - Spot 39
+
+13CAP-00000141
+
+March, 2020
+
+Merchandise - Spot 33
+
+OFF
+
+Merchandise - Spot 71
+
+Merchandise - Spot 11
+
+OFF
+
+Merchandise - Spot 49
+
+Merchandise - Spot 21
+
+13CAP-00000142
+
+March, 2020
+
+Merchandise - Spot 71
+
+Merchandise - Spot 33
+
+OFF
+
+Merchandise - Spot 47
+
+Merchandise - Spot 21
+
+OFF
+
+Merchandise - Spot 09
 
 13CAP-00000143
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 62
+Merchandise - Spot 51
 
-Merchandise - Spot 28
+Merchandise - Spot 15
 
 OFF
 
-Merchandise - Spot 70
+Merchandise - Spot 39
 
-Merchandise - Spot 34
+Merchandise - Spot 61
 
-Merchandise - Spot 02
+OFF
 
 13CAP-00000146
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 10
-
-OFF
-
-Merchandise - Spot 44
-
-Merchandise - Spot 14
+Merchandise - Spot 15
 
 OFF
 
-Merchandise - Spot 52
+Merchandise - Spot 53
 
-Merchandise - Spot 24
+Merchandise - Spot 65
+
+OFF
+
+Merchandise - Spot 27
+
+Merchandise - Spot 45
 
 13CAP-00000147
 
-December, 2019
-
-Merchandise - Spot 54
-
-Merchandise - Spot 24
+March, 2020
 
 OFF
 
-Merchandise - Spot 64
+Merchandise - Spot 41
 
-Merchandise - Spot 34
+Merchandise - Spot 01
 
 OFF
 
-Merchandise - Spot 70
+Merchandise - Spot 29
+
+Merchandise - Spot 51
+
+OFF
 
 13CAP-00000149
 
-December, 2019
+March, 2020
 
-Food - Spot 33
-
-OFF
-
-OFF
-
-Food - Spot 51
+Food - Spot 18
 
 OFF
 
 OFF
 
-Food - Spot 69
+OFF
+
+Food - Spot 66
+
+OFF
+
+OFF
 
 13CAP-00000150
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 06
+Merchandise - Spot 55
 
-OFF
-
-Merchandise - Spot 42
-
-Merchandise - Spot 12
+Merchandise - Spot 17
 
 OFF
 
-Merchandise - Spot 48
+Merchandise - Spot 31
 
-Merchandise - Spot 20
+Merchandise - Spot 03
+
+OFF
+
+Merchandise - Spot 65
 
 13CAP-00000154
 
-December, 2019
+March, 2020
+
+Merchandise - Spot 13
 
 OFF
 
-Merchandise - Spot 68
+Merchandise - Spot 49
 
-Merchandise - Spot 32
-
-Merchandise - Spot 02
+Merchandise - Spot 63
 
 OFF
 
-Merchandise - Spot 38
+Merchandise - Spot 25
 
-Merchandise - Spot 10
-
-13CAP-00000155
-
-December, 2019
-
-OFF
-
-Merchandise - Spot 70
-
-Merchandise - Spot 34
-
-Merchandise - Spot 04
-
-OFF
-
-Merchandise - Spot 40
-
-Merchandise - Spot 12
-
-13CAP-00000156
-
-December, 2019
-
-Merchandise - Spot 36
-
-Merchandise - Spot 04
-
-OFF
-
-Merchandise - Spot 44
-
-Merchandise - Spot 12
-
-OFF
-
-Merchandise - Spot 48
-
-13CAP-00000163
-
-December, 2019
-
-Merchandise - Spot 32
-
-OFF
-
-Merchandise - Spot 72
-
-Merchandise - Spot 38
-
-Merchandise - Spot 08
-
-OFF
-
-Merchandise - Spot 44
-
-13CAP-00000172
-
-December, 2019
-
-Food - Spot 07
-
-OFF
-
-OFF
-
-Food - Spot 25
-
-OFF
-
-OFF
-
-Food - Spot 43
-
-13CAP-00000173
-
-December, 2019
-
-Merchandise - Spot 02
-
-OFF
-
-Merchandise - Spot 38
-
-Merchandise - Spot 08
-
-OFF
-
-Merchandise - Spot 44
-
-Merchandise - Spot 16
-
-13CAP-00000177
-
-December, 2019
-
-Merchandise - Spot 18
-
-OFF
-
-Merchandise - Spot 54
-
-Merchandise - Spot 22
-
-OFF
-
-Merchandise - Spot 60
-
-Merchandise - Spot 32
-
-13CAP-00000189
-
-December, 2019
-
-Merchandise - Spot 38
-
-Merchandise - Spot 06
-
-OFF
-
-Merchandise - Spot 46
-
-Merchandise - Spot 14
-
-OFF
-
-Merchandise - Spot 50
-
-13CAP-00000190
-
-December, 2019
-
-Merchandise - Spot 16
-
-OFF
-
-Merchandise - Spot 52
-
-Merchandise - Spot 20
-
-OFF
-
-Merchandise - Spot 58
-
-Merchandise - Spot 30
-
-13CAP-00000196
-
-December, 2019
-
-OFF
-
-Food - Spot 15
-
-OFF
-
-OFF
-
-Food - Spot 33
-
-OFF
-
-OFF
-
-13CAP-00000224
-
-December, 2019
-
-Merchandise - Spot 64
-
-Merchandise - Spot 34
-
-Merchandise - Spot 02
-
-OFF
-
-Merchandise - Spot 44
-
-Merchandise - Spot 08
-
-OFF
-
-13CAP-00000226
-
-December, 2019
-
-Merchandise - Spot 24
-
-OFF
-
-Merchandise - Spot 62
-
-Merchandise - Spot 30
-
-OFF
-
-Merchandise - Spot 68
-
-Merchandise - Spot 36
-
-13CAP-00000228
-
-December, 2019
-
-OFF
-
-Food - Spot 53
-
-OFF
-
-OFF
-
-Food - Spot 71
-
-OFF
-
-Food - Spot 17
-
-13CAP-00000242
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 43
-
-OFF
-
-OFF
-
-Food - Spot 61
-
-OFF
+Merchandise - Spot 43
 
 
 
 
-December 2019 SRV Location Lottery Results
+March 2020 SRV Location Lottery Results
 
 License 
 Number
@@ -781,109 +583,451 @@ Friday
 
 Saturday
 
-13CAP-00000251
+13CAP-00000155
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 08
+Merchandise - Spot 03
 
 OFF
 
-Food - Spot 55
+Merchandise - Spot 39
 
-Merchandise - Spot 42
+OFF
 
-Food - Spot 01
+OFF
 
-Merchandise - Spot 50
+Merchandise - Spot 15
 
-Merchandise - Spot 22
+Merchandise - Spot 33
+
+13CAP-00000156
+
+March, 2020
+
+OFF
+
+Merchandise - Spot 45
+
+Merchandise - Spot 05
+
+OFF
+
+Merchandise - Spot 33
+
+Merchandise - Spot 55
+
+OFF
+
+13CAP-00000163
+
+March, 2020
+
+Merchandise - Spot 59
+
+Merchandise - Spot 21
+
+OFF
+
+Merchandise - Spot 35
+
+Merchandise - Spot 07
+
+OFF
+
+Merchandise - Spot 69
+
+13CAP-00000164
+
+March, 2020
+
+Merchandise - Spot 05
+
+OFF
+
+Merchandise - Spot 41
+
+Merchandise - Spot 55
+
+OFF
+
+Merchandise - Spot 17
+
+Merchandise - Spot 35
+
+13CAP-00000172
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 40
+
+OFF
+
+OFF
+
+Food - Spot 16
+
+OFF
+
+13CAP-00000173
+
+March, 2020
+
+OFF
+
+Merchandise - Spot 61
+
+Merchandise - Spot 25
+
+OFF
+
+Merchandise - Spot 47
+
+Merchandise - Spot 01
+
+OFF
+
+13CAP-00000177
+
+March, 2020
+
+Merchandise - Spot 63
+
+Merchandise - Spot 25
+
+OFF
+
+Merchandise - Spot 39
+
+Merchandise - Spot 11
+
+OFF
+
+Merchandise - Spot 01
+
+13CAP-00000186
+
+March, 2020
+
+OFF
+
+Food - Spot 56
+
+OFF
+
+OFF
+
+Food - Spot 32
+
+OFF
+
+OFF
+
+13CAP-00000189
+
+March, 2020
+
+Merchandise - Spot 17
+
+OFF
+
+Merchandise - Spot 55
+
+Merchandise - Spot 67
+
+OFF
+
+Merchandise - Spot 29
+
+Merchandise - Spot 47
+
+13CAP-00000190
+
+March, 2020
+
+Merchandise - Spot 31
+
+OFF
+
+Merchandise - Spot 69
+
+Merchandise - Spot 09
+
+OFF
+
+Merchandise - Spot 47
+
+Merchandise - Spot 19
+
+13CAP-00000196
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 24
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 72
+
+13CAP-00000224
+
+March, 2020
+
+Merchandise - Spot 01
+
+OFF
+
+Merchandise - Spot 37
+
+OFF
+
+Merchandise - Spot 71
+
+Merchandise - Spot 13
+
+OFF
+
+13CAP-00000226
+
+March, 2020
+
+Merchandise - Spot 21
+
+OFF
+
+Merchandise - Spot 59
+
+Merchandise - Spot 71
+
+OFF
+
+Merchandise - Spot 33
+
+Merchandise - Spot 51
+
+13CAP-00000242
+
+March, 2020
+
+Food - Spot 36
+
+OFF
+
+OFF
+
+Food - Spot 12
+
+OFF
+
+OFF
+
+OFF
+
+13CAP-00000249
+
+March, 2020
+
+OFF
+
+Food - Spot 66
+
+OFF
+
+OFF
+
+Food - Spot 42
+
+OFF
+
+OFF
+
+13CAP-00000250
+
+March, 2020
+
+Food - Spot 20
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 68
+
+OFF
+
+OFF
+
+13CAP-00000251
+
+March, 2020
+
+Food - Spot 24
+
+Merchandise - Spot 57
+
+Merchandise - Spot 21
+
+OFF
+
+Food - Spot 72
+
+Merchandise - Spot 45
+
+OFF
 
 13CAP-00000252
 
-December, 2019
+March, 2020
 
-Food - Spot 45
+Merchandise - Spot 49
 
-Merchandise - Spot 14
+Food - Spot 32
 
-Merchandise - Spot 50
+Merchandise - Spot 11
 
-Food - Spot 63
+Merchandise - Spot 25
 
-Merchandise - Spot 18
+Food - Spot 08
 
-Food - Spot 09
+Merchandise - Spot 67
 
-Merchandise - Spot 56
+Merchandise - Spot 59
+
+13CAP-00000254
+
+March, 2020
+
+Food - Spot 06
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 54
+
+OFF
+
+OFF
+
+13CAP-00000257
+
+March, 2020
+
+Food - Spot 26
+
+OFF
+
+OFF
+
+Food - Spot 02
+
+OFF
+
+OFF
+
+OFF
+
+13CAP-00000258
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 14
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 62
 
 13CAP-00000273
 
-December, 2019
+March, 2020
+
+Food - Spot 66
 
 OFF
 
 OFF
 
-Food - Spot 45
+Food - Spot 42
 
 OFF
 
 OFF
 
-Food - Spot 63
-
-OFF
+Food - Spot 18
 
 13CAP-00000274
 
-December, 2019
-
-Food - Spot 01
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 19
+Food - Spot 72
 
 OFF
 
 OFF
 
-Food - Spot 37
+Food - Spot 48
+
+OFF
 
 13CAP-00000277
 
-December, 2019
+March, 2020
 
-Food - Spot 17
+OFF
+
+Food - Spot 60
 
 OFF
 
 OFF
 
-Food - Spot 35
+Food - Spot 36
 
 OFF
 
 OFF
-
-Food - Spot 53
 
 13CAP-00000278
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 05
+Food - Spot 46
 
 OFF
 
 OFF
 
-Food - Spot 23
+Food - Spot 22
 
 OFF
 
@@ -891,620 +1035,98 @@ OFF
 
 13CAP-00000280
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 60
+Merchandise - Spot 37
 
-Merchandise - Spot 30
+Merchandise - Spot 03
+
+OFF
+
+Merchandise - Spot 15
+
+Merchandise - Spot 61
 
 OFF
 
-Merchandise - Spot 70
-
-Merchandise - Spot 40
-
-Merchandise - Spot 04
-
-OFF
+Merchandise - Spot 23
 
 13CAP-00000283
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 54
+Merchandise - Spot 69
 
-Merchandise - Spot 20
+Merchandise - Spot 33
 
 OFF
 
-Merchandise - Spot 62
+Merchandise - Spot 55
 
-Merchandise - Spot 26
+Merchandise - Spot 09
 
 OFF
 
 13CAP-00000285
 
-December, 2019
+March, 2020
 
 OFF
 
-Merchandise - Spot 44
+Merchandise - Spot 53
 
-Merchandise - Spot 12
+Merchandise - Spot 17
 
 OFF
 
-Merchandise - Spot 54
+Merchandise - Spot 41
 
-Merchandise - Spot 18
+Merchandise - Spot 63
 
 OFF
 
 13CAP-00000287
 
-December, 2019
+March, 2020
+
+Merchandise - Spot 11
 
 OFF
 
-Merchandise - Spot 46
+Merchandise - Spot 47
 
-Merchandise - Spot 14
-
-OFF
-
-Merchandise - Spot 56
-
-Merchandise - Spot 20
+Merchandise - Spot 61
 
 OFF
+
+Merchandise - Spot 23
+
+Merchandise - Spot 41
 
 13CAP-00000288
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 04
-
-OFF
-
-Merchandise - Spot 40
-
-Merchandise - Spot 10
-
-OFF
-
-Merchandise - Spot 46
-
-Merchandise - Spot 18
-
-13CAP-00000296
-
-December, 2019
-
-Merchandise - Spot 26
-
-OFF
-
-Merchandise - Spot 64
-
-Merchandise - Spot 32
-
-Merchandise - Spot 02
-
-OFF
-
-Merchandise - Spot 38
-
-13CAP-00000297
-
-December, 2019
-
-Merchandise - Spot 70
-
-Merchandise - Spot 40
-
-Merchandise - Spot 08
-
-OFF
-
-Merchandise - Spot 50
-
-Merchandise - Spot 14
-
-OFF
-
-13CAP-00000304
-
-December, 2019
-
-Food - Spot 11
-
-OFF
-
-OFF
-
-Food - Spot 29
-
-OFF
-
-OFF
-
-Food - Spot 47
-
-13CAP-00000305
-
-December, 2019
-
-OFF
-
-Merchandise - Spot 60
-
-Merchandise - Spot 26
-
-OFF
-
-Merchandise - Spot 68
-
-Merchandise - Spot 32
-
-OFF
-
-13CAP-00000307
-
-December, 2019
-
-OFF
-
-Merchandise - Spot 58
-
-Merchandise - Spot 24
-
-OFF
-
-Merchandise - Spot 66
-
-Merchandise - Spot 30
-
-OFF
-
-13CAP-00000311
-
-December, 2019
-
-OFF
-
-Merchandise - Spot 72
-
-Merchandise - Spot 36
-
-Merchandise - Spot 06
-
-OFF
-
-Merchandise - Spot 42
-
-Merchandise - Spot 14
-
-13CAP-00000314
-
-December, 2019
-
-OFF
-
-Food - Spot 17
-
-OFF
-
-OFF
-
-Food - Spot 35
-
-OFF
-
-OFF
-
-13CAP-00000315
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 29
-
-OFF
-
-OFF
-
-Food - Spot 47
-
-OFF
-
-13CAP-00000316
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 35
-
-OFF
-
-OFF
-
-Food - Spot 53
-
-OFF
-
-13CAP-00000320
-
-December, 2019
-
-OFF
-
-Food - Spot 07
-
-Merchandise - Spot 58
-
-OFF
-
-Food - Spot 25
-
-Merchandise - Spot 66
-
-OFF
-
-13CAP-00000321
-
-December, 2019
-
-OFF
-
-Merchandise - Spot 64
-
-Food - Spot 57
-
-Merchandise - Spot 28
-
-Food - Spot 03
-
-Merchandise - Spot 70
-
-Merchandise - Spot 04
-
-13CAP-00000322
-
-December, 2019
-
-OFF
-
-Food - Spot 35
-
-Merchandise - Spot 66
-
-OFF
-
-Food - Spot 53
-
-Merchandise - Spot 72
-
-Merchandise - Spot 08
-
-13CAP-00000324
-
-December, 2019
-
-Food - Spot 19
-
-OFF
-
-OFF
-
-Food - Spot 37
-
-OFF
-
-OFF
-
-Food - Spot 55
-
-13CAP-00000329
-
-December, 2019
-
-Food - Spot 47
-
-OFF
-
-OFF
-
-Food - Spot 65
-
-OFF
-
-Food - Spot 11
-
-OFF
-
-13CAP-00000341
-
-December, 2019
-
-Food - Spot 09
-
-OFF
-
-OFF
-
-Food - Spot 27
-
-OFF
-
-OFF
-
-Food - Spot 45
-
-13CAP-00000342
-
-December, 2019
-
-OFF
-
-Food - Spot 45
-
-OFF
-
-OFF
-
-Food - Spot 63
-
-OFF
-
-Food - Spot 09
-
-14CAP-00000032
-
-December, 2019
-
-OFF
-
-Food - Spot 21
-
-OFF
-
-OFF
-
-Food - Spot 39
-
-OFF
-
-OFF
-
-14CAP-00000033
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 37
-
-OFF
-
-OFF
-
-Food - Spot 55
-
-OFF
-
-14CAP-00000037
-
-December, 2019
-
-Merchandise - Spot 46
-
-Merchandise - Spot 16
-
-OFF
-
-Merchandise - Spot 54
-
-Merchandise - Spot 24
-
-OFF
-
-Merchandise - Spot 60
-
-14CAP-00000041
-
-December, 2019
-
-Merchandise - Spot 20
-
-Food - Spot 47
-
-Merchandise - Spot 56
-
-Merchandise - Spot 24
-
-Food - Spot 65
-
-Merchandise - Spot 62
-
-Food - Spot 11
-
-14CAP-00000042
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 67
-
-OFF
-
-Food - Spot 13
-
-OFF
-
-OFF
-
-14CAP-00000051
-
-December, 2019
-
-Food - Spot 43
-
-OFF
-
-OFF
-
-Food - Spot 61
-
-OFF
-
-Food - Spot 07
-
-OFF
-
-14CAP-00000054
-
-December, 2019
-
-Food - Spot 39
-
-OFF
-
-OFF
-
-Food - Spot 57
-
-OFF
-
-Food - Spot 03
-
-OFF
-
-14CAP-00000057
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 27
-
-OFF
-
-OFF
-
-Food - Spot 45
-
-OFF
-
-14CAP-00000085
-
-December, 2019
-
-Food - Spot 67
-
-Merchandise - Spot 52
-
-Food - Spot 13
-
-Merchandise - Spot 62
-
-Merchandise - Spot 32
-
-Food - Spot 31
-
-Merchandise - Spot 68
-
-14CAP-00000086
-
-December, 2019
-
-OFF
-
-Food - Spot 37
-
-OFF
-
-OFF
-
-Food - Spot 55
-
-OFF
-
-Food - Spot 01
-
-14CAP-00000105
-
-December, 2019
-
-Food - Spot 03
-
-OFF
-
-OFF
-
-Food - Spot 21
-
-OFF
-
-OFF
-
-Food - Spot 39
-
-14CAP-00000126
-
-December, 2019
-
-OFF
-
-Food - Spot 51
-
-OFF
-
-OFF
-
-Food - Spot 69
-
 OFF
 
-Food - Spot 15
+Merchandise - Spot 37
 
-14CAP-00000289
-
-December, 2019
-
-OFF
-
-Food - Spot 63
-
 OFF
 
-Food - Spot 09
+Merchandise - Spot 51
 
-OFF
+Merchandise - Spot 25
 
 OFF
 
-Food - Spot 27
+Merchandise - Spot 55
 
 
 
 
-December 2019 SRV Location Lottery Results
+March 2020 SRV Location Lottery Results
 
 License 
 Number
@@ -1525,397 +1147,1051 @@ Friday
 
 Saturday
 
+13CAP-00000296
+
+March, 2020
+
+Merchandise - Spot 39
+
+Merchandise - Spot 05
+
+OFF
+
+Merchandise - Spot 17
+
+Merchandise - Spot 63
+
+OFF
+
+Merchandise - Spot 25
+
+13CAP-00000297
+
+March, 2020
+
+Merchandise - Spot 65
+
+Merchandise - Spot 27
+
+OFF
+
+Merchandise - Spot 41
+
+Merchandise - Spot 13
+
+OFF
+
+Merchandise - Spot 03
+
+13CAP-00000304
+
+March, 2020
+
+OFF
+
+Food - Spot 38
+
+OFF
+
+OFF
+
+Food - Spot 14
+
+OFF
+
+OFF
+
+13CAP-00000305
+
+March, 2020
+
+Merchandise - Spot 47
+
+Merchandise - Spot 13
+
+OFF
+
+Merchandise - Spot 23
+
+Merchandise - Spot 69
+
+OFF
+
+Merchandise - Spot 31
+
+13CAP-00000307
+
+March, 2020
+
+Merchandise - Spot 67
+
+Merchandise - Spot 29
+
+OFF
+
+Merchandise - Spot 43
+
+Merchandise - Spot 15
+
+OFF
+
+Merchandise - Spot 05
+
+13CAP-00000311
+
+March, 2020
+
+Merchandise - Spot 45
+
+Merchandise - Spot 11
+
+OFF
+
+Merchandise - Spot 21
+
+Merchandise - Spot 67
+
+OFF
+
+Merchandise - Spot 29
+
+13CAP-00000314
+
+March, 2020
+
+Food - Spot 56
+
+OFF
+
+OFF
+
+Food - Spot 32
+
+OFF
+
+OFF
+
+Food - Spot 08
+
+13CAP-00000315
+
+March, 2020
+
+OFF
+
+Food - Spot 44
+
+OFF
+
+OFF
+
+Food - Spot 20
+
+OFF
+
+OFF
+
+13CAP-00000316
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 66
+
+OFF
+
+OFF
+
+Food - Spot 42
+
+OFF
+
+13CAP-00000320
+
+March, 2020
+
+OFF
+
+Food - Spot 30
+
+Merchandise - Spot 51
+
+OFF
+
+Food - Spot 06
+
+Merchandise - Spot 39
+
+OFF
+
+13CAP-00000321
+
+March, 2020
+
+Merchandise - Spot 35
+
+Merchandise - Spot 01
+
+Food - Spot 04
+
+Merchandise - Spot 13
+
+Merchandise - Spot 59
+
+OFF
+
+Food - Spot 52
+
+13CAP-00000322
+
+March, 2020
+
+Merchandise - Spot 29
+
+OFF
+
+Merchandise - Spot 67
+
+Merchandise - Spot 07
+
+OFF
+
+Merchandise - Spot 43
+
+Merchandise - Spot 17
+
+13CAP-00000329
+
+March, 2020
+
+Food - Spot 30
+
+OFF
+
+OFF
+
+Food - Spot 06
+
+OFF
+
+OFF
+
+OFF
+
+13CAP-00000341
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 10
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 58
+
+13CAP-00000342
+
+March, 2020
+
+OFF
+
+Food - Spot 34
+
+OFF
+
+OFF
+
+Food - Spot 10
+
+OFF
+
+OFF
+
+14CAP-00000032
+
+March, 2020
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 56
+
+OFF
+
+OFF
+
+Food - Spot 32
+
+14CAP-00000033
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 62
+
+OFF
+
+OFF
+
+Food - Spot 38
+
+OFF
+
+14CAP-00000037
+
+March, 2020
+
+Merchandise - Spot 53
+
+Merchandise - Spot 15
+
+OFF
+
+Merchandise - Spot 29
+
+Merchandise - Spot 01
+
+OFF
+
+Merchandise - Spot 63
+
+14CAP-00000041
+
+March, 2020
+
+Merchandise - Spot 57
+
+Merchandise - Spot 19
+
+Food - Spot 30
+
+Merchandise - Spot 33
+
+Merchandise - Spot 05
+
+Food - Spot 06
+
+Merchandise - Spot 67
+
+14CAP-00000042
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 52
+
+OFF
+
+OFF
+
+Food - Spot 28
+
+OFF
+
+14CAP-00000051
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 36
+
+OFF
+
+OFF
+
+Food - Spot 12
+
+OFF
+
+14CAP-00000054
+
+March, 2020
+
+OFF
+
+Food - Spot 70
+
+OFF
+
+OFF
+
+Food - Spot 46
+
+OFF
+
+OFF
+
+14CAP-00000057
+
+March, 2020
+
+OFF
+
+Food - Spot 06
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 54
+
+OFF
+
+14CAP-00000070
+
+March, 2020
+
+OFF
+
+Merchandise - Spot 67
+
+Merchandise - Spot 31
+
+OFF
+
+Merchandise - Spot 53
+
+Merchandise - Spot 07
+
+OFF
+
+14CAP-00000085
+
+March, 2020
+
+Merchandise - Spot 51
+
+Food - Spot 64
+
+Merchandise - Spot 13
+
+Merchandise - Spot 27
+
+Food - Spot 40
+
+Merchandise - Spot 69
+
+Merchandise - Spot 61
+
+14CAP-00000086
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 20
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 68
+
+14CAP-00000105
+
+March, 2020
+
+OFF
+
+Food - Spot 54
+
+OFF
+
+OFF
+
+Food - Spot 30
+
+OFF
+
+OFF
+
+14CAP-00000126
+
+March, 2020
+
+Food - Spot 46
+
+OFF
+
+OFF
+
+Food - Spot 22
+
+OFF
+
+OFF
+
+OFF
+
+14CAP-00000177
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 28
+
+OFF
+
+OFF
+
+Food - Spot 04
+
+OFF
+
+14CAP-00000238
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 16
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 64
+
+
+
+
+March 2020 SRV Location Lottery Results
+
+License 
+Number
+
+Month
+
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+14CAP-00000243
+
+March, 2020
+
+OFF
+
+Food - Spot 16
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 64
+
+OFF
+
+14CAP-00000289
+
+March, 2020
+
+OFF
+
+Food - Spot 50
+
+OFF
+
+OFF
+
+Food - Spot 26
+
+OFF
+
+OFF
+
 14CAP-00000341
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 28
-
-OFF
-
-Merchandise - Spot 68
-
-Merchandise - Spot 34
-
-Merchandise - Spot 04
+Merchandise - Spot 25
 
 OFF
 
-Merchandise - Spot 40
+Merchandise - Spot 63
+
+Merchandise - Spot 03
+
+OFF
+
+Merchandise - Spot 37
+
+Merchandise - Spot 13
+
+14CAP-00000346
+
+March, 2020
+
+OFF
+
+Food - Spot 68
+
+OFF
+
+OFF
+
+Food - Spot 44
+
+OFF
+
+OFF
+
+15CAP-00000004
+
+March, 2020
+
+Food - Spot 72
+
+OFF
+
+OFF
+
+Food - Spot 48
+
+OFF
+
+OFF
+
+Food - Spot 24
 
 15CAP-00000012
 
-December, 2019
-
-OFF
-
-Food - Spot 19
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 37
+Food - Spot 68
 
 OFF
+
+OFF
+
+Food - Spot 44
 
 OFF
 
 15CAP-00000013
 
-December, 2019
-
-Food - Spot 53
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 71
+Food - Spot 38
 
 OFF
 
-Food - Spot 17
+OFF
+
+Food - Spot 14
 
 OFF
 
 15CAP-00000014
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 22
-
-OFF
-
-Merchandise - Spot 60
-
-Merchandise - Spot 26
+Merchandise - Spot 27
 
 OFF
 
-Merchandise - Spot 64
+Merchandise - Spot 65
 
-Merchandise - Spot 34
+Merchandise - Spot 05
+
+OFF
+
+Merchandise - Spot 41
+
+Merchandise - Spot 15
+
+15CAP-00000038
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 34
+
+OFF
+
+OFF
+
+Food - Spot 10
+
+OFF
 
 15CAP-00000044
 
-December, 2019
+March, 2020
 
-Food - Spot 21
-
-OFF
-
-OFF
-
-Food - Spot 39
+Food - Spot 44
 
 OFF
 
 OFF
 
-Food - Spot 57
-
-15CAP-00000057
-
-December, 2019
-
-Merchandise - Spot 30
+Food - Spot 20
 
 OFF
 
-Merchandise - Spot 70
-
-Merchandise - Spot 36
-
-Merchandise - Spot 06
-
 OFF
 
-Merchandise - Spot 42
+OFF
 
 15CAP-00000068
 
-December, 2019
-
-OFF
-
-Food - Spot 27
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 45
+Food - Spot 02
 
 OFF
 
 OFF
+
+OFF
+
+Food - Spot 50
 
 15CAP-00000081
 
-December, 2019
+March, 2020
 
-Food - Spot 49
+Food - Spot 52
+
+OFF
+
+OFF
+
+Food - Spot 28
 
 OFF
 
 OFF
 
-Food - Spot 67
-
-OFF
-
-Food - Spot 13
-
-OFF
+Food - Spot 04
 
 15CAP-00000083
 
-December, 2019
+March, 2020
+
+OFF
+
+Food - Spot 20
 
 OFF
 
 OFF
 
-Food - Spot 47
-
 OFF
 
-OFF
-
-Food - Spot 65
+Food - Spot 68
 
 OFF
 
 15CAP-00000090
 
-December, 2019
-
-Merchandise - Spot 12
+March, 2020
 
 OFF
 
-Merchandise - Spot 46
+Merchandise - Spot 71
 
-Merchandise - Spot 16
+Merchandise - Spot 35
 
 OFF
 
-Merchandise - Spot 54
+Merchandise - Spot 57
 
-Merchandise - Spot 26
+Merchandise - Spot 11
+
+OFF
 
 15CAP-00000094
 
-December, 2019
-
-Merchandise - Spot 68
-
-Merchandise - Spot 38
-
-Merchandise - Spot 06
+March, 2020
 
 OFF
 
-Merchandise - Spot 48
-
-Merchandise - Spot 12
+Merchandise - Spot 39
 
 OFF
+
+Merchandise - Spot 53
+
+Merchandise - Spot 27
+
+OFF
+
+Merchandise - Spot 57
 
 15CAP-00000118
 
-December, 2019
-
-Food - Spot 15
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 33
+Food - Spot 44
 
 OFF
 
 OFF
 
-Food - Spot 51
+Food - Spot 20
+
+OFF
 
 15CAP-00000121
 
-December, 2019
-
-Food - Spot 57
+March, 2020
 
 OFF
 
-Food - Spot 03
+Food - Spot 62
 
 OFF
 
 OFF
 
-Food - Spot 21
+Food - Spot 38
+
+OFF
 
 OFF
 
 16CAP-00000029
 
-December, 2019
-
-Food - Spot 51
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 69
+Food - Spot 18
 
 OFF
 
-Food - Spot 15
+OFF
 
 OFF
+
+Food - Spot 66
 
 16CAP-00000032
 
-December, 2019
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 23
+OFF
+
+Food - Spot 50
 
 OFF
 
 OFF
 
-Food - Spot 41
-
-OFF
+Food - Spot 26
 
 16CAP-00000048
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 59
-
-OFF
-
-Food - Spot 05
+Food - Spot 72
 
 OFF
 
 OFF
 
-Food - Spot 23
+Food - Spot 48
+
+OFF
+
+OFF
+
+16CAP-00000054
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 64
+
+OFF
+
+OFF
+
+Food - Spot 40
+
+OFF
 
 16CAP-00000068
 
-December, 2019
+March, 2020
 
-OFF
-
-Food - Spot 57
-
-OFF
-
-Food - Spot 03
+Food - Spot 08
 
 OFF
 
 OFF
 
-Food - Spot 21
+OFF
+
+Food - Spot 56
+
+OFF
+
+OFF
 
 16CAP-00000069
 
-December, 2019
-
-OFF
-
-Food - Spot 61
-
-OFF
-
-Food - Spot 07
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 25
+OFF
+
+Food - Spot 54
+
+OFF
+
+OFF
+
+Food - Spot 30
 
 16CAP-00000073
 
-December, 2019
-
-Food - Spot 61
+March, 2020
 
 OFF
 
-Food - Spot 07
+Food - Spot 12
 
 OFF
 
 OFF
 
-Food - Spot 25
+OFF
+
+Food - Spot 60
 
 OFF
 
 16CAP-00000103
 
-December, 2019
-
-OFF
-
-Food - Spot 69
-
-OFF
-
-Food - Spot 15
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 33
+Food - Spot 46
+
+OFF
+
+OFF
+
+Food - Spot 22
+
+OFF
 
 16CAP-00000105
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 67
-
-OFF
-
-Food - Spot 13
+Food - Spot 18
 
 OFF
 
 OFF
 
-Food - Spot 31
+OFF
+
+Food - Spot 66
+
+OFF
 
 17CAP-00000009
 
-December, 2019
+March, 2020
+
+Food - Spot 10
 
 OFF
 
 OFF
 
-Food - Spot 69
-
 OFF
 
-Food - Spot 15
+Food - Spot 58
 
 OFF
 
@@ -1923,332 +2199,62 @@ OFF
 
 17CAP-00000076
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 41
-
-OFF
-
-OFF
-
-Food - Spot 59
-
-OFF
-
-Food - Spot 05
-
-17CAP-00000126
-
-December, 2019
-
-OFF
-
-Food - Spot 33
-
-OFF
-
-OFF
-
-Food - Spot 51
-
-OFF
-
-OFF
-
-17CAP-00000142
-
-December, 2019
-
-Food - Spot 55
-
-OFF
-
-Food - Spot 01
-
-OFF
-
-OFF
-
-Food - Spot 19
-
-OFF
-
-17CAP-00000151
-
-December, 2019
-
-Food - Spot 25
-
-OFF
-
-OFF
-
-Food - Spot 43
-
-OFF
-
-OFF
-
-Food - Spot 61
-
-17CAP-00000158
-
-December, 2019
-
-OFF
-
-Food - Spot 29
-
-OFF
-
-OFF
-
-Food - Spot 47
-
-OFF
-
-OFF
-
-17CAP-00000160
-
-December, 2019
-
-OFF
-
-Food - Spot 25
-
-OFF
-
-OFF
-
-Food - Spot 43
-
-OFF
-
-OFF
-
-18CAP-00000012
-
-December, 2019
-
-OFF
-
-Food - Spot 09
-
-OFF
-
-OFF
-
-Food - Spot 27
-
-OFF
-
-OFF
-
-18CAP-00000016
-
-December, 2019
-
-Food - Spot 71
-
-OFF
-
-Food - Spot 17
-
-OFF
-
-OFF
-
-Food - Spot 35
-
-OFF
-
-18CAP-00000023
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 49
-
-OFF
-
-OFF
-
-Food - Spot 67
-
-OFF
-
-18CAP-00000029
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 51
-
-OFF
-
-OFF
-
-Food - Spot 69
-
-OFF
-
-18CAP-00000034
-
-December, 2019
-
-Food - Spot 23
-
-OFF
-
-OFF
-
-Food - Spot 41
-
-OFF
-
-OFF
-
-Food - Spot 59
-
-18CAP-00000035
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 31
-
-OFF
-
-OFF
-
-Food - Spot 49
-
-OFF
-
-18CAP-00000040
-
-December, 2019
-
-OFF
-
-Food - Spot 01
-
-OFF
-
-OFF
-
-Food - Spot 19
-
-OFF
-
-OFF
-
-18CAP-00000055
-
-December, 2019
-
-OFF
-
-OFF
-
-Food - Spot 39
-
-OFF
-
 OFF
 
-Food - Spot 57
-
 OFF
-
-18CAP-00000057
-
-December, 2019
 
-Food - Spot 05
+Food - Spot 72
 
 OFF
 
 OFF
 
-Food - Spot 23
-
-OFF
-
-OFF
+Food - Spot 48
 
-Food - Spot 41
+17CAP-00000109
 
-18CAP-00000075
+March, 2020
 
-December, 2019
+Food - Spot 34
 
 OFF
 
 OFF
 
-Food - Spot 25
+Food - Spot 10
 
 OFF
 
 OFF
 
-Food - Spot 43
-
 OFF
 
-18CAP-00000081
+17CAP-00000114
 
-December, 2019
-
-OFF
+March, 2020
 
-Food - Spot 23
+Food - Spot 64
 
 OFF
 
 OFF
 
-Food - Spot 41
+Food - Spot 40
 
 OFF
-
-OFF
-
-18CAP-00000085
 
-December, 2019
-
-Merchandise - Spot 58
-
-Merchandise - Spot 28
-
 OFF
 
-Merchandise - Spot 68
-
-Merchandise - Spot 38
-
-Merchandise - Spot 02
-
-OFF
+Food - Spot 16
 
 
 
 
-December 2019 SRV Location Lottery Results
+March 2020 SRV Location Lottery Results
 
 License 
 Number
@@ -2269,127 +2275,523 @@ Friday
 
 Saturday
 
-18CAP-00000087
+17CAP-00000126
 
-December, 2019
-
-OFF
-
-Food - Spot 39
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 57
+OFF
+
+Food - Spot 64
 
 OFF
 
-Food - Spot 03
+OFF
+
+Food - Spot 40
+
+17CAP-00000141
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 26
+
+OFF
+
+OFF
+
+Food - Spot 02
+
+OFF
+
+17CAP-00000142
+
+March, 2020
+
+Food - Spot 28
+
+OFF
+
+OFF
+
+Food - Spot 04
+
+OFF
+
+OFF
+
+OFF
+
+17CAP-00000151
+
+March, 2020
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 62
+
+OFF
+
+OFF
+
+Food - Spot 38
+
+17CAP-00000158
+
+March, 2020
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 60
+
+OFF
+
+OFF
+
+Food - Spot 36
+
+17CAP-00000160
+
+March, 2020
+
+Food - Spot 02
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 50
+
+OFF
+
+OFF
+
+18CAP-00000011
+
+March, 2020
+
+Food - Spot 50
+
+OFF
+
+OFF
+
+Food - Spot 26
+
+OFF
+
+OFF
+
+Food - Spot 02
+
+18CAP-00000012
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 08
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 56
+
+18CAP-00000016
+
+March, 2020
+
+OFF
+
+Food - Spot 14
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 62
+
+OFF
+
+18CAP-00000023
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 50
+
+OFF
+
+OFF
+
+Food - Spot 26
+
+OFF
+
+18CAP-00000029
+
+March, 2020
+
+OFF
+
+Food - Spot 08
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 56
+
+OFF
+
+18CAP-00000034
+
+March, 2020
+
+Food - Spot 42
+
+OFF
+
+OFF
+
+Food - Spot 18
+
+OFF
+
+OFF
+
+OFF
+
+18CAP-00000035
+
+March, 2020
+
+Food - Spot 48
+
+OFF
+
+OFF
+
+Food - Spot 24
+
+OFF
+
+OFF
+
+OFF
+
+18CAP-00000037
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 54
+
+OFF
+
+OFF
+
+Food - Spot 30
+
+OFF
+
+18CAP-00000047
+
+March, 2020
+
+OFF
+
+Food - Spot 58
+
+OFF
+
+OFF
+
+Food - Spot 34
+
+OFF
+
+OFF
+
+18CAP-00000048
+
+March, 2020
+
+Food - Spot 38
+
+OFF
+
+OFF
+
+Food - Spot 14
+
+OFF
+
+OFF
+
+OFF
+
+18CAP-00000055
+
+March, 2020
+
+Food - Spot 58
+
+OFF
+
+OFF
+
+Food - Spot 34
+
+OFF
+
+OFF
+
+Food - Spot 10
+
+18CAP-00000057
+
+March, 2020
+
+OFF
+
+Food - Spot 42
+
+OFF
+
+OFF
+
+Food - Spot 18
+
+OFF
+
+OFF
+
+18CAP-00000070
+
+March, 2020
+
+Food - Spot 40
+
+OFF
+
+OFF
+
+Food - Spot 16
+
+OFF
+
+OFF
+
+OFF
+
+18CAP-00000075
+
+March, 2020
+
+Food - Spot 22
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 70
+
+OFF
+
+OFF
+
+18CAP-00000076
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 22
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 70
+
+18CAP-00000081
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 56
+
+OFF
+
+OFF
+
+Food - Spot 32
+
+OFF
+
+18CAP-00000084
+
+March, 2020
+
+OFF
+
+Food - Spot 28
+
+OFF
+
+OFF
+
+Food - Spot 04
+
+OFF
+
+OFF
+
+18CAP-00000085
+
+March, 2020
+
+OFF
+
+Merchandise - Spot 49
+
+Merchandise - Spot 09
+
+OFF
+
+Merchandise - Spot 37
+
+Merchandise - Spot 59
+
+OFF
 
 18CAP-00000090
 
-December, 2019
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 59
+Food - Spot 48
 
 OFF
 
-Food - Spot 05
-
 OFF
+
+Food - Spot 24
 
 OFF
 
 18CAP-00000091
 
-December, 2019
+March, 2020
 
-Food - Spot 69
-
-OFF
-
-Food - Spot 15
+Food - Spot 68
 
 OFF
 
 OFF
 
-Food - Spot 33
+Food - Spot 44
 
 OFF
+
+OFF
+
+Food - Spot 20
 
 18CAP-00000092
 
-December, 2019
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 33
+OFF
+
+Food - Spot 52
 
 OFF
 
 OFF
 
-Food - Spot 51
-
-OFF
+Food - Spot 28
 
 18CAP-00000110
 
-December, 2019
+March, 2020
+
+Food - Spot 16
 
 OFF
 
 OFF
 
-Food - Spot 71
-
 OFF
 
-Food - Spot 17
+Food - Spot 64
 
 OFF
-
-OFF
-
-18CAP-00000116
-
-December, 2019
-
-Food - Spot 59
-
-OFF
-
-Food - Spot 05
-
-OFF
-
-OFF
-
-Food - Spot 23
 
 OFF
 
 18CAP-00000120
 
-December, 2019
+March, 2020
+
+OFF
+
+Food - Spot 52
 
 OFF
 
 OFF
 
-Food - Spot 65
-
-OFF
-
-Food - Spot 11
+Food - Spot 28
 
 OFF
 
@@ -2397,53 +2799,77 @@ OFF
 
 19CAP-00000001
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 43
+Food - Spot 02
 
 OFF
 
 OFF
 
-Food - Spot 61
+OFF
+
+Food - Spot 50
 
 OFF
 
-Food - Spot 07
+
+
+
+March 2020 SRV Location Lottery Results
+
+License 
+Number
+
+Month
+
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
 
 19CAP-00000004
 
-December, 2019
+March, 2020
 
-Food - Spot 27
-
-OFF
-
-OFF
-
-Food - Spot 45
+Food - Spot 54
 
 OFF
 
 OFF
 
-Food - Spot 63
+Food - Spot 30
+
+OFF
+
+OFF
+
+Food - Spot 06
 
 19CAP-00000007
 
-December, 2019
+March, 2020
+
+Food - Spot 04
 
 OFF
 
 OFF
 
-Food - Spot 61
-
 OFF
 
-Food - Spot 07
+Food - Spot 52
 
 OFF
 
@@ -2451,197 +2877,233 @@ OFF
 
 19CAP-00000009
 
-December, 2019
-
-Food - Spot 65
-
-OFF
-
-Food - Spot 11
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 29
+Food - Spot 12
 
 OFF
+
+OFF
+
+OFF
+
+Food - Spot 60
 
 19CAP-00000019
 
-December, 2019
-
-OFF
-
-Food - Spot 49
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 67
+Food - Spot 58
 
 OFF
 
-Food - Spot 13
+OFF
+
+Food - Spot 34
+
+OFF
+
+19CAP-00000020
+
+March, 2020
+
+Food - Spot 70
+
+OFF
+
+OFF
+
+Food - Spot 46
+
+OFF
+
+OFF
+
+Food - Spot 22
 
 19CAP-00000021
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 71
-
-OFF
-
-Food - Spot 17
+Food - Spot 48
 
 OFF
 
 OFF
 
-Food - Spot 35
+Food - Spot 24
+
+OFF
+
+OFF
+
+19CAP-00000022
+
+March, 2020
+
+OFF
+
+Merchandise - Spot 43
+
+Merchandise - Spot 03
+
+OFF
+
+Merchandise - Spot 31
+
+Merchandise - Spot 53
+
+OFF
 
 19CAP-00000027
 
-December, 2019
-
-OFF
-
-Food - Spot 13
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 31
+OFF
+
+Food - Spot 66
 
 OFF
 
 OFF
+
+Food - Spot 42
 
 19CAP-00000030
 
-December, 2019
+March, 2020
+
+OFF
+
+Food - Spot 40
 
 OFF
 
 OFF
 
-Food - Spot 53
+Food - Spot 16
 
 OFF
 
 OFF
 
-Food - Spot 71
+19CAP-00000031
+
+March, 2020
 
 OFF
+
+OFF
+
+OFF
+
+Food - Spot 68
+
+OFF
+
+OFF
+
+Food - Spot 44
 
 19CAP-00000033
 
-December, 2019
+March, 2020
 
 OFF
 
-Food - Spot 31
+Food - Spot 22
 
 OFF
 
 OFF
 
-Food - Spot 49
-
 OFF
+
+Food - Spot 70
 
 OFF
 
 19CAP-00000037
 
-December, 2019
-
-OFF
-
-Food - Spot 65
-
-OFF
-
-Food - Spot 11
+March, 2020
 
 OFF
 
 OFF
 
-Food - Spot 29
+Food - Spot 06
+
+OFF
+
+OFF
+
+OFF
+
+Food - Spot 54
 
 19CAP-00000052
 
-December, 2019
+March, 2020
 
-Food - Spot 63
-
-OFF
-
-Food - Spot 09
+Food - Spot 32
 
 OFF
 
 OFF
 
-Food - Spot 27
+Food - Spot 08
+
+OFF
+
+OFF
 
 OFF
 
 19CAP-00000057
 
-December, 2019
+March, 2020
 
-Food - Spot 29
-
-OFF
-
-OFF
-
-Food - Spot 47
+Food - Spot 62
 
 OFF
 
 OFF
 
-Food - Spot 65
-
-19CAP-00000058
-
-December, 2019
-
-Food - Spot 41
+Food - Spot 38
 
 OFF
 
 OFF
 
-Food - Spot 59
-
-OFF
-
-Food - Spot 05
-
-OFF
+Food - Spot 14
 
 19CAP-00000062
 
-December, 2019
+March, 2020
+
+Food - Spot 12
 
 OFF
 
-Food - Spot 11
-
 OFF
 
 OFF
 
-Food - Spot 29
+Food - Spot 60
 
 OFF
 
@@ -2649,73 +3111,73 @@ OFF
 
 19CAP-00000063
 
-December, 2019
+March, 2020
 
-Food - Spot 31
+OFF
+
+Food - Spot 10
 
 OFF
 
 OFF
 
-Food - Spot 49
-
 OFF
 
-OFF
+Food - Spot 58
 
-Food - Spot 67
+OFF
 
 19CAP-00000066
 
-December, 2019
+March, 2020
+
+OFF
+
+Food - Spot 36
 
 OFF
 
 OFF
 
-Food - Spot 19
+Food - Spot 12
 
 OFF
 
 OFF
-
-Food - Spot 37
-
-OFF
-
-19CAP-00000072
-
-December, 2019
-
-OFF
-
-Food - Spot 55
-
-OFF
-
-Food - Spot 01
-
-OFF
-
-OFF
-
-Food - Spot 19
 
 19CAP-00000073
 
-December, 2019
+March, 2020
 
-Merchandise - Spot 72
+Merchandise - Spot 41
 
-Merchandise - Spot 42
-
-Merchandise - Spot 10
+Merchandise - Spot 07
 
 OFF
 
-Merchandise - Spot 52
+Food - Spot 70
 
-Merchandise - Spot 16
+Merchandise - Spot 19
+
+OFF
+
+Food - Spot 46
+
+19CAP-00000083
+
+March, 2020
+
+OFF
+
+OFF
+
+Food - Spot 32
+
+OFF
+
+OFF
+
+Food - Spot 08
 
 OFF
 
