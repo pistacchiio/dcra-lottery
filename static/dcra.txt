@@ -1,4 +1,4 @@
-October 2020 SRV Location Lottery Results
+November 2020 SRV Location Lottery Results
 
 License 
 Number
@@ -21,489 +21,621 @@ Saturday
 
 13CAP-00000050
 
-October, 2020
+November, 2020
 
-Food - Spot 35
+Food - Spot 54
 
-Food - Spot 25
+Food - Spot 44
 
-Food - Spot 15
+Food - Spot 34
 
-Food - Spot 05
+Food - Spot 24
 
-Food - Spot 67
+Food - Spot 14
 
-Food - Spot 57
+Food - Spot 04
 
-Food - Spot 47
+Food - Spot 66
 
 13CAP-00000139
 
-October, 2020
+November, 2020
 
-Merchandise - Spot 68
+Merchandise - Spot 65
 
-Merchandise - Spot 58
+Merchandise - Spot 55
 
-Merchandise - Spot 48
+Merchandise - Spot 45
 
-Merchandise - Spot 38
+Merchandise - Spot 35
 
-Merchandise - Spot 28
+Merchandise - Spot 25
 
-Merchandise - Spot 18
+Merchandise - Spot 15
 
-Merchandise - Spot 08
+Merchandise - Spot 05
+
+13CAP-00000149
+
+November, 2020
+
+Food - Spot 34
+
+Food - Spot 24
+
+Food - Spot 14
+
+Food - Spot 04
+
+Food - Spot 64
+
+Food - Spot 56
+
+Food - Spot 46
+
+13CAP-00000251
+
+November, 2020
+
+Merchandise - Spot 67
+
+Merchandise - Spot 57
+
+Merchandise - Spot 47
+
+Merchandise - Spot 37
+
+Merchandise - Spot 27
+
+Merchandise - Spot 17
+
+Merchandise - Spot 07
+
+13CAP-00000252
+
+November, 2020
+
+Food - Spot 32
+
+Merchandise - Spot 43
+
+Food - Spot 12
+
+Food - Spot 02
+
+Merchandise - Spot 13
+
+Food - Spot 54
+
+Merchandise - Spot 65
 
 13CAP-00000320
 
-October, 2020
+November, 2020
 
-Merchandise - Spot 64
+Merchandise - Spot 59
 
-Merchandise - Spot 54
+Merchandise - Spot 49
 
-Merchandise - Spot 44
+Merchandise - Spot 39
 
-Merchandise - Spot 34
+Merchandise - Spot 29
 
-Merchandise - Spot 24
+Merchandise - Spot 19
 
-Merchandise - Spot 14
+Merchandise - Spot 09
 
-Merchandise - Spot 04
+Merchandise - Spot 71
+
+13CAP-00000321
+
+November, 2020
+
+Food - Spot 58
+
+Merchandise - Spot 47
+
+Food - Spot 38
+
+Food - Spot 28
+
+Merchandise - Spot 17
+
+Food - Spot 08
+
+Merchandise - Spot 69
 
 13CAP-00000322
 
-October, 2020
+November, 2020
 
-Merchandise - Spot 66
+Merchandise - Spot 63
 
-Merchandise - Spot 56
+Merchandise - Spot 53
 
-Merchandise - Spot 46
+Merchandise - Spot 43
 
-Merchandise - Spot 36
+Merchandise - Spot 33
 
-Merchandise - Spot 26
+Merchandise - Spot 23
 
-Merchandise - Spot 16
+Merchandise - Spot 13
 
-Merchandise - Spot 06
+Merchandise - Spot 03
 
 14CAP-00000057
 
-October, 2020
+November, 2020
 
-Food - Spot 71
+Food - Spot 72
 
-Food - Spot 61
+Food - Spot 62
 
-Food - Spot 51
+Food - Spot 52
 
-Food - Spot 41
+Food - Spot 42
 
-Food - Spot 31
+Food - Spot 32
 
-Food - Spot 21
+Food - Spot 22
 
-Food - Spot 11
+Food - Spot 12
 
 14CAP-00000126
 
-October, 2020
+November, 2020
 
-Food - Spot 65
+Food - Spot 60
 
-Food - Spot 55
+Food - Spot 50
 
-Food - Spot 45
+Food - Spot 40
 
-Food - Spot 35
+Food - Spot 30
 
-Food - Spot 25
+Food - Spot 20
 
-Food - Spot 15
+Food - Spot 10
 
-Food - Spot 05
+Food - Spot 72
 
 14CAP-00000289
 
-October, 2020
+November, 2020
 
-Food - Spot 43
+Food - Spot 66
 
-Food - Spot 33
+Food - Spot 56
 
-Food - Spot 23
+Food - Spot 46
 
-Food - Spot 13
+Food - Spot 36
 
-Food - Spot 03
+Food - Spot 26
 
-Food - Spot 65
+Food - Spot 16
 
-Food - Spot 55
-
-15CAP-00000044
-
-October, 2020
-
-Food - Spot 33
-
-Food - Spot 23
-
-Food - Spot 13
-
-Food - Spot 03
-
-Food - Spot 65
-
-Food - Spot 55
-
-Food - Spot 45
+Food - Spot 06
 
 15CAP-00000083
 
-October, 2020
+November, 2020
 
-Food - Spot 53
+Food - Spot 26
 
-Food - Spot 43
+Food - Spot 16
 
-Food - Spot 33
+Food - Spot 06
 
-Food - Spot 23
+Food - Spot 68
 
-Food - Spot 13
+Food - Spot 56
 
-Food - Spot 03
+Food - Spot 48
 
-Food - Spot 65
+Food - Spot 38
 
 15CAP-00000090
 
-October, 2020
+November, 2020
 
-Merchandise - Spot 70
+Merchandise - Spot 61
 
-Merchandise - Spot 60
+Merchandise - Spot 51
 
-Merchandise - Spot 50
+Merchandise - Spot 41
 
-Merchandise - Spot 40
+Merchandise - Spot 31
 
-Merchandise - Spot 30
+Merchandise - Spot 21
 
-Merchandise - Spot 20
+Merchandise - Spot 11
 
-Merchandise - Spot 10
+Merchandise - Spot 01
 
 15CAP-00000118
 
-October, 2020
+November, 2020
 
-Food - Spot 61
+Food - Spot 42
 
-Food - Spot 51
+Food - Spot 32
 
-Food - Spot 41
+Food - Spot 22
 
-Food - Spot 31
+Food - Spot 12
 
-Food - Spot 21
+Food - Spot 72
 
-Food - Spot 11
+Food - Spot 64
 
-Food - Spot 01
+Food - Spot 54
 
 16CAP-00000032
 
-October, 2020
+November, 2020
 
-Food - Spot 47
+Food - Spot 52
 
-Food - Spot 37
+Food - Spot 42
 
-Food - Spot 27
+Food - Spot 32
 
-Food - Spot 17
+Food - Spot 22
 
-Food - Spot 07
+Food - Spot 12
 
-Food - Spot 69
+Food - Spot 02
 
-Food - Spot 59
+Food - Spot 64
 
 16CAP-00000068
 
-October, 2020
+November, 2020
 
-Food - Spot 45
+Food - Spot 46
 
-Food - Spot 35
+Food - Spot 36
 
-Food - Spot 25
+Food - Spot 26
 
-Food - Spot 15
+Food - Spot 16
 
-Food - Spot 05
+Food - Spot 06
 
-Food - Spot 67
+Food - Spot 68
 
-Food - Spot 57
+Food - Spot 58
+
+16CAP-00000105
+
+November, 2020
+
+Food - Spot 22
+
+Food - Spot 12
+
+Food - Spot 02
+
+Food - Spot 64
+
+Food - Spot 52
+
+Food - Spot 44
+
+Food - Spot 34
 
 17CAP-00000126
 
-October, 2020
+November, 2020
 
-Food - Spot 31
+Food - Spot 50
 
-Food - Spot 21
+Food - Spot 40
 
-Food - Spot 11
+Food - Spot 30
 
-Food - Spot 01
+Food - Spot 20
 
-Food - Spot 63
+Food - Spot 10
 
-Food - Spot 53
+Food - Spot 72
 
-Food - Spot 43
+Food - Spot 62
+
+18CAP-00000011
+
+November, 2020
+
+Food - Spot 40
+
+Food - Spot 30
+
+Food - Spot 20
+
+Food - Spot 10
+
+Food - Spot 70
+
+Food - Spot 62
+
+Food - Spot 52
 
 18CAP-00000016
 
-October, 2020
+November, 2020
 
-Food - Spot 69
+Food - Spot 38
 
-Food - Spot 59
+Food - Spot 28
 
-Food - Spot 49
+Food - Spot 18
 
-Food - Spot 39
+Food - Spot 08
 
-Food - Spot 29
+Food - Spot 68
 
-Food - Spot 19
+Food - Spot 60
 
-Food - Spot 09
+Food - Spot 50
 
 18CAP-00000029
 
-October, 2020
+November, 2020
 
-Food - Spot 41
+Food - Spot 64
 
-Food - Spot 31
+Food - Spot 54
 
-Food - Spot 21
+Food - Spot 44
 
-Food - Spot 11
+Food - Spot 34
 
-Food - Spot 01
+Food - Spot 24
 
-Food - Spot 63
+Food - Spot 14
 
-Food - Spot 53
-
-18CAP-00000075
-
-October, 2020
-
-Food - Spot 55
-
-Food - Spot 45
-
-Food - Spot 35
-
-Food - Spot 25
-
-Food - Spot 15
-
-Food - Spot 05
-
-Food - Spot 67
+Food - Spot 04
 
 18CAP-00000081
 
-October, 2020
+November, 2020
 
-Food - Spot 67
+Food - Spot 30
 
-Food - Spot 57
+Food - Spot 20
 
-Food - Spot 47
+Food - Spot 10
 
-Food - Spot 37
+Food - Spot 72
 
-Food - Spot 27
+Food - Spot 60
 
-Food - Spot 17
+Food - Spot 52
 
-Food - Spot 07
+Food - Spot 42
 
 18CAP-00000092
 
-October, 2020
+November, 2020
 
-Food - Spot 27
+Food - Spot 68
 
-Food - Spot 17
+Food - Spot 58
 
-Food - Spot 07
+Food - Spot 48
 
-Food - Spot 69
+Food - Spot 38
 
-Food - Spot 59
+Food - Spot 28
 
-Food - Spot 49
+Food - Spot 18
 
-Food - Spot 39
+Food - Spot 08
+
+19CAP-00000001
+
+November, 2020
+
+Food - Spot 36
+
+Food - Spot 26
+
+Food - Spot 16
+
+Food - Spot 06
+
+Food - Spot 66
+
+Food - Spot 58
+
+Food - Spot 48
 
 19CAP-00000007
 
-October, 2020
+November, 2020
 
-Food - Spot 59
+Food - Spot 62
 
-Food - Spot 49
+Food - Spot 52
 
-Food - Spot 39
+Food - Spot 42
 
-Food - Spot 29
+Food - Spot 32
 
-Food - Spot 19
+Food - Spot 22
 
-Food - Spot 09
+Food - Spot 12
 
-Food - Spot 71
+Food - Spot 02
 
 19CAP-00000019
 
-October, 2020
+November, 2020
 
-Food - Spot 51
+Food - Spot 70
 
-Food - Spot 41
+Food - Spot 60
 
-Food - Spot 31
+Food - Spot 50
 
-Food - Spot 21
+Food - Spot 40
 
-Food - Spot 11
+Food - Spot 30
 
-Food - Spot 01
+Food - Spot 20
 
-Food - Spot 63
+Food - Spot 10
 
 19CAP-00000033
 
-October, 2020
+November, 2020
 
-Food - Spot 39
+Food - Spot 56
 
-Food - Spot 29
+Food - Spot 46
 
-Food - Spot 19
+Food - Spot 36
 
-Food - Spot 09
+Food - Spot 26
 
-Food - Spot 71
+Food - Spot 16
 
-Food - Spot 61
+Food - Spot 06
 
-Food - Spot 51
+Food - Spot 68
 
 19CAP-00000052
 
-October, 2020
+November, 2020
 
-Food - Spot 63
+Food - Spot 44
 
-Food - Spot 53
+Food - Spot 34
 
-Food - Spot 43
+Food - Spot 24
 
-Food - Spot 33
+Food - Spot 14
 
-Food - Spot 23
+Food - Spot 04
 
-Food - Spot 13
+Food - Spot 66
 
-Food - Spot 03
-
-19CAP-00000057
-
-October, 2020
-
-Food - Spot 37
-
-Food - Spot 27
-
-Food - Spot 17
-
-Food - Spot 07
-
-Food - Spot 69
-
-Food - Spot 59
-
-Food - Spot 49
+Food - Spot 56
 
 19CAP-00000066
 
-October, 2020
+November, 2020
 
-Food - Spot 57
+Food - Spot 24
 
-Food - Spot 47
+Food - Spot 14
 
-Food - Spot 37
+Food - Spot 04
 
-Food - Spot 27
+Food - Spot 66
 
-Food - Spot 17
+Food - Spot 54
 
-Food - Spot 07
+Food - Spot 46
 
-Food - Spot 69
+Food - Spot 36
 
 19CAP-00000073
 
-October, 2020
+November, 2020
 
-Food - Spot 29
+Food - Spot 28
 
-Merchandise - Spot 62
+Merchandise - Spot 59
 
-Food - Spot 09
+Food - Spot 08
 
-Merchandise - Spot 42
+Food - Spot 70
 
-Food - Spot 61
+Merchandise - Spot 29
 
-Food - Spot 51
+Food - Spot 50
 
-Merchandise - Spot 12
+Merchandise - Spot 09
+
+
+
+
+November 2020 SRV Location Lottery Results
+
+License 
+Number
+
+Month
+
+Sunday
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
 
 19CAP-00000083
 
-October, 2020
+November, 2020
 
-Food - Spot 49
+Food - Spot 48
 
-Food - Spot 39
+Food - Spot 38
 
-Food - Spot 29
+Food - Spot 28
 
-Food - Spot 19
+Food - Spot 18
 
-Food - Spot 09
+Food - Spot 08
 
-Food - Spot 71
+Food - Spot 70
 
-Food - Spot 61
+Food - Spot 60
+
+20CAP-00000018
+
+November, 2020
+
+Merchandise - Spot 71
+
+Merchandise - Spot 61
+
+Merchandise - Spot 51
+
+Merchandise - Spot 41
+
+Merchandise - Spot 31
+
+Merchandise - Spot 21
+
+Merchandise - Spot 11
+
+20CAP-00000019
+
+November, 2020
+
+Merchandise - Spot 55
+
+Merchandise - Spot 45
+
+Merchandise - Spot 35
+
+Merchandise - Spot 25
+
+Merchandise - Spot 15
+
+Merchandise - Spot 05
+
+Merchandise - Spot 67
 
 
 
